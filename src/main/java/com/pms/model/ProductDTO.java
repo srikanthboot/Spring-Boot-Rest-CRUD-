@@ -5,6 +5,8 @@ public class ProductDTO {
 	private String productName;
 	private Double price;
 	private String manufacturer;
+	
+	
 	public Integer getProductId() {
 		return productId;
 	}
